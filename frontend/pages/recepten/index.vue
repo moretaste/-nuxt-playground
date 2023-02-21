@@ -1,0 +1,3 @@
+<template>
+  Recepten index
+</template>
